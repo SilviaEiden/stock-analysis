@@ -22,7 +22,14 @@ As stated above, Steve wants to know how stocks performed in 2017 as well as in 
 
 Once year 2017 is selected/chosen, we can immediately see that 11 out of 12 stocks had a positive return. DQ was the highest/best performing stock with a 199.4% positive return. SEDG coming at second highest performing stock with a 184.5% positive return for 2017.
 
+
+![Snap_2017](Snap_2017.png)
+
+
 Switching to year 2018, we can observe the opposite from positive was performed. The only two stocks that are reflected in the green are RUN and ENPH with an 84% and an 81.9% positive return, respectively.
+
+
+![Snap_2018](Snap_2018.png)
 
 * To calculate the yearly return in the VBA script the following line of code was added:
  
@@ -102,6 +109,6 @@ For example, the code to create an array to hold 12 tickers would be:
 Dim tickers(11) As String
 ```
 
-Overall, by providing Steve with a flexible VBA macro he has the ability to look at different set of stocks now and in the future. 
+Overall, by providing Steve with a flexible VBA macro he has the ability to look at different set of stocks now and in the future to help his parents diversify their investment portfolio. 
 
 
